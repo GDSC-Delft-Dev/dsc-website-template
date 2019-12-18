@@ -59,16 +59,6 @@ export default ({ register }) => {
               <Nav.Link href="#faqs">Faqs</Nav.Link>
             </Nav.Item>
           </Nav>
-          <div className="custom-menu__right">
-            <a
-              href={register}
-              className="event-btn"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fa fa-users"></i> Become a member
-            </a>
-          </div>
         </Navbar.Collapse>
       </Container>
     </Navbar>

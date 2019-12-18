@@ -28,10 +28,7 @@ export default ({ register }) => (
             </h5>
             <p>
               We hold workshops and showcases at TechHub EKSU & we would
-              recommend you to join our community by becoming a{' '}
-              <a href={register} target="_blank" rel="noopener noreferrer">
-                member
-              </a>{' '}
+              recommend you to join our community by following us on all of our social channels
               to get updates.
             </p>
           </Card>

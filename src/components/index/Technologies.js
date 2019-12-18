@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 
-import android from '../../images/technologies/android.png'
+import mobile from '../../images/technologies/f.png'
 import web from '../../images/technologies/web.png'
 import cloud from '../../images/technologies/cloud.png'
 import mi from '../../images/technologies/mi.png'
@@ -23,9 +23,9 @@ export default () => (
           <Col sm={6}>
             <div className="feature-list-image">
               <img
-                src={android}
+                src={mobile}
                 className="img-fluid"
-                alt="Official android logo"
+                alt="Mobile development logo"
                 width="100%"
                 height="50%"
               />
@@ -34,16 +34,17 @@ export default () => (
           <Col sm={5} ml="auto" className="ml-auto">
             <div className="feature-list-wrapper">
               <div className="content-header">
-                <h2 className="content-title">Android Development</h2>
+                <h2 className="content-title">Mobile Development</h2>
                 <p>
-                  Every year Google developers release exciting new updates to
-                  the world's most popular operating system. We always have
+                  Every year exciting new updates are released for a wide
+                  variety of mobile development platforms, and promising new
+                  frameworks get released on the regular. We always have
                   sessions to keep you updated and mastering the latest trends
-                  in modern Android development.
+                  in modern mobile development.
                 </p>
               </div>
               <a
-                href="https://codelabs.developers.google.com/?cat=Android"
+                href="https://codelabs.developers.google.com/?cat=Flutter"
                 className="hero-button"
                 target="_blank"
                 rel="noopener noreferrer"

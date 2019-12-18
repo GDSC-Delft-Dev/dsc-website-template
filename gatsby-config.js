@@ -1,17 +1,17 @@
 module.exports = {
-  pathPrefix: "/dsc-website-template",
   siteMetadata: {
-    title: `Developer Student Club`,
+    title: `Delft Developer Student Club`,
     description: `Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
-    university: `UniversityName`,
+    university: `Delft`,
     lang: `en`,
-    register: `https://www.google.it/intl/it/forms/about/`,
-    mail: `example@example.com`,
+    register: `#`,
+    mail: `contact@dscdelft.nl`,
     social: {
-      youtube: `https://youtube.com`,
-      github: `https://github.com`,
-      twitter: `https://twitter.com`,
-    }
+      youtube: `https://youtube.com/dscdelft`,
+      github: `https://github.com/dscdelft`,
+      twitter: `https://twitter.com/dscdelft`,
+      instagram: `https://instagram.com/dscdelft`,
+    },
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

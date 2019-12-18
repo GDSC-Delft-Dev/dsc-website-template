@@ -10,7 +10,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 
 export default ({ name, role, descs, img, social }) => (
-  <Col xs={12} md={4} className="col-md-4 col-15">
+  <Col xs={12} md={6} className="col-md-4 col-15">
     <Card className="card event-card">
       <Card className="hovercard">
         <Card.Header />

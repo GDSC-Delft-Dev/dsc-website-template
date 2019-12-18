@@ -34,11 +34,9 @@ export default ({ university, register }) => (
             </div>
             <a
               className="hero-button"
-              href={register}
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#overview" // {register}
             >
-              <i className="fa fa-users"></i> Become a member
+              <i className="fa fa-users"></i> More about us
             </a>
           </div>
         </Col>
