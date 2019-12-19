@@ -17,6 +17,7 @@
     "gatsby-plugin-react-helmet": "^3.1.14",
     "gatsby-plugin-sass": "^2.1.23",
     "gatsby-plugin-sharp": "^2.2.37",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^2.1.36",
     "gatsby-transformer-sharp": "^2.3.3",
     "gatsby-transformer-yaml": "^2.2.17",

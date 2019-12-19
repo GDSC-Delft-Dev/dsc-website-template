@@ -46,5 +46,13 @@ module.exports = {
         icon: `src/images/dsc-logo.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Google Sans'],
+        },
+      },
+    },
   ],
 }
