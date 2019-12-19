@@ -7,10 +7,11 @@ module.exports = {
     register: `#`,
     mail: `contact@dscdelft.nl`,
     social: {
-      youtube: `https://youtube.com/dscdelft`,
       github: `https://github.com/dscdelft`,
       twitter: `https://twitter.com/dscdelft`,
       instagram: `https://instagram.com/dscdelft`,
+      facebook: `https://facebook.com/dscdelft`,
+      youtube: `#`,
     },
   },
   plugins: [

@@ -22,9 +22,10 @@ export default ({ children }) => {
           register
           mail
           social {
-            youtube
+            instagram
             github
             twitter
+            facebook
           }
         }
       }

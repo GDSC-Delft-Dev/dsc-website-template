@@ -7,7 +7,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faTwitter,
   faGithub,
-  faYoutube,
+  faInstagram,
+  faFacebook,
 } from '@fortawesome/free-brands-svg-icons'
 
 export default ({ social, mail }) => (
@@ -28,7 +29,8 @@ export default ({ social, mail }) => (
               {Object.entries({
                 twitter: faTwitter,
                 github: faGithub,
-                youtube: faYoutube,
+                instagram: faInstagram,
+                facebook: faFacebook,
               })
                 .filter(([name]) => name in social)
                 .map(([name, icon]) => (

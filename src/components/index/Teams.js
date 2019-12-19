@@ -39,8 +39,7 @@ export default _ => {
         <header className="text-center section-header">
           <h2 className="section-title">Meet The DSC Team</h2>
           <p className="section-subtitle">
-            Passionate students and faculty staff driving the success of the
-            program.
+            Passionate students driving the success of the program.
           </p>
         </header>
 

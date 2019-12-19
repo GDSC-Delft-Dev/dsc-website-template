@@ -18,9 +18,10 @@ export const teamsQuery = graphql`
         register
         mail
         social {
-          youtube
+          instagram
           github
           twitter
+          facebook
         }
       }
     }
