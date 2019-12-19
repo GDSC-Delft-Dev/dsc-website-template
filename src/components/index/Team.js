@@ -7,6 +7,7 @@ import {
   faTwitter,
   faGithub,
   faLinkedin,
+  faFacebook,
 } from '@fortawesome/free-brands-svg-icons'
 
 export default ({ name, role, descs, img, social }) => (
@@ -34,6 +35,7 @@ export default ({ name, role, descs, img, social }) => (
               twitter: faTwitter,
               github: faGithub,
               linkedin: faLinkedin,
+              facebook: faFacebook,
             })
               .filter(([socialName]) => social[socialName] != null)
               .map(([socialName, icon]) => (

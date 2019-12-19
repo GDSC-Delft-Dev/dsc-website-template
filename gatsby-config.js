@@ -50,7 +50,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Google Sans'],
+          families: ['Google Sans:300,200,400,700'],
         },
       },
     },

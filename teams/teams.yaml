@@ -9,28 +9,30 @@
     github: https://github.com/romatallinn
     linkedin: https://linkedin.com/in/rsirokov/
 
-- name: Mateusz
+- name: Mateusz Zaremba
   rule: Organizer
   img: ./m.jpg
   descs:
-    - CSE Student
+    - Technology Enthusiast
+    - Aerospace Engineering Student
+    - Web Developer
   social:
-    twitter: https://www.example.com
-    github: https://www.example.com
+    linkedin: https://www.linkedin.com/in/mateusz-zaremba-231a99175
+    facebook: https://www.facebook.com/mjzaremba
 
 - name: Matas Rastenis
   rule: Organizer
   img: ./matt.jpg
   descs:
     - Full Stack Developer
-    - Open source enthusiast
+    - Open Source Enthusiast
     - CSE Student
   social:
     twitter: https://twitter.com/scharkee
     github: https://github.com/Scharkee
     linkedin: https://www.linkedin.com/in/matasr/
 
-- name: Luca
+- name: Luka Dubravica
   rule: Organizer
   img: ./l.jpg
   descs:

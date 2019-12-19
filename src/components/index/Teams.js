@@ -26,6 +26,7 @@ export default _ => {
               twitter
               github
               linkedin
+              facebook
             }
           }
         }
