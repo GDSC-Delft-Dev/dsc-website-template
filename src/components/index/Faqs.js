@@ -27,9 +27,8 @@ export default ({ register }) => (
               How frequently do events and workshops occur?
             </h5>
             <p>
-              We hold workshops and showcases at TechHub EKSU & we would
-              recommend you to join our community by following us on all of our social channels
-              to get updates.
+              We hold our workshops and meetups on regular basisc; around once or twice per month.
+              For more information on upcoming events follow us in social networks.
             </p>
           </Card>
         </Col>
@@ -41,10 +40,9 @@ export default ({ register }) => (
               What should I carry when attending a workshop?
             </h5>
             <p>
-              We recommend you carry with you a notebook, pen and a laptop
-              because more often than not we make our hands dirty with code.
-              Most importantly, carry along a healthy dose of curiosity and
-              enthusiasm.
+              The must-have is a healthy dose of curiosity and
+              enthusiasm. If any other appliances are needed, such as notebooks or laptops,
+              it will be mentioned in the event's description.
             </p>
           </Card>
         </Col>
@@ -55,8 +53,7 @@ export default ({ register }) => (
             </h5>
             <p>
               If you have any questions or comments, please don't hesitate to
-              contact us by clicking the button below. We would be happy to stay
-              engaged via email even after the event
+              contact us by sending a letter to email or message us on social networks.
             </p>
           </Card>
         </Col>

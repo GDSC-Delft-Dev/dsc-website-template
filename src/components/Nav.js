@@ -56,7 +56,7 @@ export default ({ register }) => {
               <Nav.Link href="#team">Team</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="#faqs">Faqs</Nav.Link>
+              <Nav.Link href="#faqs">FAQ</Nav.Link>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>

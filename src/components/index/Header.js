@@ -13,7 +13,7 @@ export default ({ university, register }) => (
             <div className="hero-title__group">
               <div className="hero-title">
                 <h2 className="zuri">
-                  Developer Student Club <br /> {university}.
+                  Developer Student Club <br /> {university}
                 </h2>
               </div>
               <div className="Hero--Subtitle">

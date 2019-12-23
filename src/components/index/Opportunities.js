@@ -18,7 +18,7 @@ export default () => (
             <ul>
               <li>
                 Grow their knowledge on developer technologies and more through
-                peer to peer workshops and vents.
+                peer to peer workshops and events.
               </li>
             </ul>
           </Card>
