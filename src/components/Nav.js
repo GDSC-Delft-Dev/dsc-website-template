@@ -48,10 +48,7 @@ export default ({ register }) => {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link href="#technologies">Technologies</Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link href="#workshops">Workshops</Nav.Link>
-            </Nav.Item>
+             </Nav.Item>
             <Nav.Item>
               <Nav.Link href="#team">Team</Nav.Link>
             </Nav.Item>
