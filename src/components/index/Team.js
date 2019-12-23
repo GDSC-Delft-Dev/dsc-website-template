@@ -11,9 +11,9 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 
 export default ({ name, role, descs, img, social }) => (
-  <Col xs={12} md={6} className="col-md-4 col-15">
-    <Card className="card event-card">
-      <Card className="hovercard">
+  <Col xs={12} md={6} className="col-md-4 col-15 mt-20">
+    <Card className="card event-card h-100">
+      <Card className="hovercard h-100">
         <Card.Header />
         <div className="avatar">
           <Img fixed={img.childImageSharp.fixed} alt={`${role} avatar`} />
@@ -32,10 +32,10 @@ export default ({ name, role, descs, img, social }) => (
         <div className="bottom">
           <ul className="social-list__inline mt-10">
             {Object.entries({
-              twitter: faTwitter,
-              github: faGithub,
               linkedin: faLinkedin,
+              github: faGithub,
               facebook: faFacebook,
+              twitter: faTwitter,
             })
               .filter(([socialName]) => social[socialName] != null)
               .map(([socialName, icon]) => (

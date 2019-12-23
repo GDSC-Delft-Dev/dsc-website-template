@@ -13,7 +13,7 @@ export default _ => {
         edges {
           node {
             name
-            rule
+            role
             descs
             img {
               childImageSharp {
