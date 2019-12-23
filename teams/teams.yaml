@@ -1,16 +1,17 @@
 - name: Roman Sirokov
-  rule: Lead Organizer
+  role: Lead Organizer
   img: ./r.jpg
   descs:
     - CSE Student
     - Full Stack Developer
+    - Startup Enthusiast
   social:
-    twitter: https://twitter.com/RSirokov
-    github: https://github.com/romatallinn
     linkedin: https://linkedin.com/in/rsirokov/
+    github: https://github.com/romatallinn
+    twitter: https://twitter.com/RSirokov
 
 - name: Mateusz Zaremba
-  rule: Organizer
+  role: Organizer
   img: ./m.jpg
   descs:
     - Technology Enthusiast
@@ -21,7 +22,7 @@
     facebook: https://www.facebook.com/mjzaremba
 
 - name: Matas Rastenis
-  rule: Organizer
+  role: Organizer
   img: ./matt.jpg
   descs:
     - Full Stack Developer
@@ -33,7 +34,7 @@
     linkedin: https://www.linkedin.com/in/matasr/
 
 - name: Luka Dubravica
-  rule: Organizer
+  role: Organizer
   img: ./l.jpg
   descs:
     - CSE Student
