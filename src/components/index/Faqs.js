@@ -27,7 +27,7 @@ export default ({ register }) => (
               How frequently do events and workshops occur?
             </h5>
             <p>
-              We hold our workshops and meetups on regular basisc; around once or twice per month.
+              We hold our workshops and meetups on regular basis; around once or twice per month.
               For more information on upcoming events follow us in social networks.
             </p>
           </Card>
