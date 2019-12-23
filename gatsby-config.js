@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Delft Developer Student Club`,
-    description: `Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
-    university: `Delft`,
+    description: `Developer Student Clubs (DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
+    university: `Delft, Netherlands`,
     lang: `en`,
     register: `#`,
     mail: `contact@dscdelft.nl`,
