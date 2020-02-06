@@ -5,7 +5,7 @@ module.exports = {
     university: `Delft, Netherlands`,
     lang: `en`,
     register: `#`,
-    mail: `contact@dscdelft.nl`,
+    mail: `dsc.delft@gmail.com`,
     social: {
       github: `https://github.com/dscdelft`,
       twitter: `https://twitter.com/dscdelft`,
