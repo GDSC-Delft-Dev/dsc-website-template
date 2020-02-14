@@ -25,6 +25,10 @@ export default ({ title, lang, description }) => (
         content: `website`,
       },
       {
+        property: 'og:image',
+        content: 'https://dscdelft.nl/static/diversity-e2ddf1c608a75add459e67ce3da4cc76.png'
+      },
+      {
         name: `twitter:card`,
         content: `summary`,
       },
