@@ -1,44 +1,110 @@
-- name: Roman Sirokov
-  role: Lead Organizer
-  img: ./r.jpg
+- name: Matas Rastenis
+  role: DSC Lead
+  img: ./matas.jpg
   descs:
-    - CSE Student
+    - Co-Founder at HEFA
+    - Software Engineer at Yuki
+    - CSE Student at TU Delft
+  social:
+    twitter: https://twitter.com/MatasRastenis
+    github: https://github.com/Scharkee
+    linkedin: https://www.linkedin.com/in/matasr/
+
+- name: Roman Sirokov
+  role: Organizer, Ex-Lead
+  img: ./roman.jpg
+  descs:
     - Full Stack Developer
     - Startup Enthusiast
+    - CSE Student at TU Delft
   social:
     linkedin: https://linkedin.com/in/rsirokov/
     github: https://github.com/romatallinn
     twitter: https://twitter.com/RSirokov
+
+- name: Jochem Broekhoff
+  role: Organizer
+  img: ./jochem.jpg
+  descs:
+    - Embedded/Backend Software Engineer
+    - Embedded, Linux & IoT Enthusiast
+    - CSE Student at TU Delft
+  social:
+    github: https://github.com/jochembroekhoff
+    linkedin: https://www.linkedin.com/in/jochem-broekhoff
+
+- name: Emirhan Baran Demir
+  role: Organizer
+  img: ./emirhan.jpg
+  descs:
+    - Software Developer at Avonic
+    - Computer Vision Enthusiast
+    - CSE Student at TU Delft
+  social:
+    github: https://github.com/ebdemir
+    linkedin: linkedin.com/in/emirhan-baran-demir-1b8b7717a
+
+- name: Luka Dubravica
+  role: Organizer
+  img: ./l.jpg
+  descs:
+    - DIY Enthusiast
+    - Software Developer
+    - CSE Student at TU Delft
+  social:
+    github: https://github.com/ldubravica
+    linkedin: https://linkedin.com/in/ldubravica
+
+- name: Mykolas Krupauskas
+  role: Organizer
+  img: ./mykolas.jpg
+  descs:
+    - Software Engineer
+    - Passionate about the web
+    - CSE Student at TU Delft
+  social:
+    github: https://github.com/MKrupauskas
+    linkedin: https://www.linkedin.com/in/mkrup/
+
+- name: Julie van Marken
+  role: Organizer
+  img: ./julie.jpg
+  descs:
+    - Open-Source Enthusiast
+    - Technology Enthusiast
+    - CSE Student at TU Delft
+  social:
+    linkedin: https://www.linkedin.com/in/julie-van-marken-a831b11b8/
+
+- name: Hector Peeters
+  role: Organizer
+  img: ./hector.jpg
+  descs:
+    - System-level Programmer
+    - Computer Graphics Enthusiast
+    - CSE Student at TU Delft
+  social:
+    github: https://github.com/HectorPeeters
+    linkedin: https://www.linkedin.com/in/hector-peeters-605674149/
+
+- name: Coen Schutte
+  role: Organizer
+  img: ./coen.jpg
+  descs:
+    - Hardware Enthusiast
+    - Open-Source Enthusiast
+    - CSE Student at TU Delft  
+  social:
+    github: https://github.com/CoenSchutte
+    linkedin: https://www.linkedin.com/in/coen-schutte/
 
 - name: Mateusz Zaremba
   role: Organizer
   img: ./m.jpg
   descs:
     - Technology Enthusiast
-    - Aerospace Engineering Student
     - Web Developer
+    - AE Student at TU Delft
   social:
     linkedin: https://www.linkedin.com/in/mateusz-zaremba-231a99175
     facebook: https://www.facebook.com/mjzaremba
-
-- name: Matas Rastenis
-  role: Organizer
-  img: ./matt.jpg
-  descs:
-    - Full Stack Developer
-    - Open Source Enthusiast
-    - CSE Student
-  social:
-    twitter: https://twitter.com/MatasRastenis
-    github: https://github.com/Scharkee
-    linkedin: https://www.linkedin.com/in/matasr/
-
-- name: Luka Dubravica
-  role: Organizer
-  img: ./l.jpg
-  descs:
-    - CSE Student
-    - DIY Enthusiast
-  social:
-    github: https://github.com/ldubravica
-    linkedin: https://linkedin.com/in/ldubravica
