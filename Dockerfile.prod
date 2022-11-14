@@ -1,0 +1,21 @@
+# pull official base image
+FROM node:12
+
+# set working directory
+WORKDIR /srv
+
+# Copies package.json and package-lock.json to Docker environment
+COPY package*.json ./
+
+# Install all dependencies
+RUN npm install
+
+# Copy all other files
+
+COPY . .
+
+# Uses port which is used by the actual application
+EXPOSE 8000
+
+# Run application
+CMD npm run production

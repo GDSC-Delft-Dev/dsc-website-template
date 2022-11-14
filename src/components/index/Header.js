@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 import image from '../../images/header/diversity.png'
 
-export default ({ university, register }) => (
+export default ({ university }) => (
   <header id="hero" className="hero">
     <Container>
       <Row className="align-items-center">
@@ -13,12 +13,13 @@ export default ({ university, register }) => (
             <div className="hero-title__group">
               <div className="hero-title">
                 <h2 className="zuri">
-                  Developer Student Club <br /> {university}
+                  Google Developer Student Club <br /> {university}
                 </h2>
               </div>
               <div className="Hero--Subtitle">
                 <p className="lead">
-                  Developer Student Clubs is a <first-letter>G</first-letter>
+                  Google Developer Student Club A (GDSC) is a{' '}
+                  <first-letter>G</first-letter>
                   <third-letter>o</third-letter>
                   <second-letter>o</second-letter>
                   <first-letter>g</first-letter>

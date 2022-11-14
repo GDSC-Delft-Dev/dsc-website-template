@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import { useStaticQuery, graphql } from 'gatsby'
 
-export default _ => {
+export default (_) => {
   const {
     allTeamsYaml: { edges },
   } = useStaticQuery(graphql`
@@ -38,7 +38,7 @@ export default _ => {
     <section id="team" className="section-spacer team-section">
       <Container>
         <header className="text-center section-header">
-          <h2 className="section-title">Meet The DSC Team</h2>
+          <h2 className="section-title">Meet The GDSC Team</h2>
           <p className="section-subtitle">
             Passionate students driving the success of the program.
           </p>

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Delft Developer Student Club`,
-    description: `Developer Student Clubs (DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
-    university: `Delft, Netherlands`,
+    title: `Google Developer Student Club Delft`,
+    description: `Google Developer Student Clubs (GDSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
+    university: `Delft University of Technology, Netherlands`,
     lang: `en`,
     register: `#`,
     mail: `dsc.delft@gmail.com`,
@@ -11,6 +11,7 @@ module.exports = {
       twitter: `https://twitter.com/dscdelft`,
       instagram: `https://instagram.com/dscdelft`,
       facebook: `https://facebook.com/dscdelft`,
+      linkedin: `https://www.linkedin.com/company/gdsc-delft-university-of-technology/`,
       youtube: `#`,
     },
   },
