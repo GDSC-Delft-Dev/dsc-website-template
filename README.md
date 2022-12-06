@@ -6,7 +6,7 @@ This is a refactor of the [EKSU DSC](https://github.com/DSCEksu/dsceksu-laravel)
 
 ## Install
 
-> Note: The application seems to work with Node.js v12, other versions will most likely not work.
+> Note: The application seems to work with Node.js v14, other versions will most likely not work.
 
 You can run it locally using `node`:
 
@@ -25,10 +25,10 @@ Or through `docker`:
 
 ```shell
 # install dependencies
-$ docker run --rm -it -p 8000:8000 -w="/srv" -v ${PWD}:/srv node:12 npm install
+$ docker run --rm -it -p 8000:8000 -w="/srv" -v ${PWD}:/srv node:14 npm install
 
 # Run on localhost:8000 (by default)
-$ docker run --rm -it -p 8000:8000 -w="/srv" -v ${PWD}:/srv node:12 npm run develop -- --host 0.0.0.0 --port 8000
+$ docker run --rm -it -p 8000:8000 -w="/srv" -v ${PWD}:/srv node:14 npm run develop -- --host 0.0.0.0 --port 8000
 ```
 
 OR another way through Docker in a development environment:
