@@ -37,3 +37,16 @@
     github: https://github.com/AntoniosBarotsis
     linkedin: https://www.linkedin.com/in/antonios-barotsis-5a26a0199/
     twitter: https://twitter.com/Tony_Barotsis
+
+- name: Nadine Kuo
+  role:  Tech Core
+  img: ./nadine.jpg
+  descs:
+    - BSc Computer Science and Engineering Student @ Delft University of Technology
+    - Passionate about Full-Stack Software Engineering (incl. Web Dev) and UX/UI Design
+    - Aspiring to build solutions that can contribute to our global community
+  social:
+    github: https://github.com/nadinekuo
+    linkedin: https://www.linkedin.com/in/nadine-kuo-120467218/
+    instagram: https://www.instagram.com/nadinek42x/
+    twitter: https://twitter.com/NadineKuo
