@@ -10,6 +10,7 @@
     twitter: https://twitter.com/alifarukyucel
     github: https://github.com/alifarukyucel
     linkedin: https://www.linkedin.com/in/alifarukyucel/
+
 - name: Krzysztof Baran
   role: GDSC co-Lead
   img: ./KrzysztofB.jpg
@@ -24,3 +25,15 @@
     linkedin: https://www.linkedin.com/in/krzysztof-piotr-baran/
     instagram: https://www.instagram.com/johnny_silverhand.exe/
     facebook: https://www.facebook.com/krzysztof.p.baran/
+
+- name: Antonios Barotsis
+  role:  Tech Core
+  img: ./tony.jpg
+  descs:
+    - BSc Computer Science and Engineering Student @ Delft University of Technology
+    - Interested in Backend, Software Architecture, System Design and Rust
+    - Sometime blogs at antoniosbarotsis.github.io
+  social:
+    github: https://github.com/AntoniosBarotsis
+    linkedin: https://www.linkedin.com/in/antonios-barotsis-5a26a0199/
+    twitter: https://twitter.com/Tony_Barotsis
