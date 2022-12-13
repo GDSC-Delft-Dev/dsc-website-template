@@ -38,6 +38,16 @@
     linkedin: https://www.linkedin.com/in/antonios-barotsis-5a26a0199/
     twitter: https://twitter.com/Tony_Barotsis
 
+- name: Andrew Mereuta
+  role:  Tech Core
+  img: ./AndrewM.jpg
+  descs:
+    - BSc Computer Science and Engineering Student @ Delft University of Technology
+    - Interested in Backend and Software Architecture
+  social:
+    github: https://github.com/Andrew-Mereuta
+    linkedin: https://www.linkedin.com/in/andrei-mereuta-a87982208/
+
 - name: Nadine Kuo
   role:  Tech Core
   img: ./nadine.jpg
