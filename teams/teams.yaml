@@ -24,3 +24,17 @@
     linkedin: https://www.linkedin.com/in/krzysztof-piotr-baran/
     instagram: https://www.instagram.com/johnny_silverhand.exe/
     facebook: https://www.facebook.com/krzysztof.p.baran/
+- name: Paul Misterka
+  role: Tech & Partnerships Core
+  img: ./paul.jpg
+  descs:
+    - BSc Computer Science Student @ Delft University of Technology
+    - ex-SA Intern @ AWS
+    - PR Manager @ Makerspace Delft
+    - SWE, Cloud, Computer Vision, IoT & Search enthusiast
+  social:
+    github: https://github.com/paulmis
+    linkedin: https://www.linkedin.com/in/paulmis
+    instagram: https://www.instagram.com/glowpauul/
+    twitter: https://twitter.com/paulmis_
+
