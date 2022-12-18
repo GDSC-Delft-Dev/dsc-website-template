@@ -84,6 +84,18 @@
     linkedin: https://www.linkedin.com/in/anna-kalandadze-8bab0a206/
     instagram: https://www.instagram.com/annie.anka/
 
+- name: Konrad Ponichtera
+  role: Tech Core
+  img: ./konrad.jpg
+  descs:
+    - MSc Computer Science student @ Delft University of Technology
+    - DevOps Engineer & Cloud Infrastructure Architect @ IT Touch sp. z o.o.
+    - The Twelve-Factor App methodology follower
+    - Taking holistic approach in designing and developing scalable, highly-available systems
+  social:
+    github: https://github.com/kponichtera
+    linkedin: https://www.linkedin.com/in/kponichtera/
+
 - name: Tudor-Gabriel Velican
   role: Partnerships Core
   img: ./tudorgv.jpg
