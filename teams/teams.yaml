@@ -38,6 +38,20 @@
     linkedin: https://www.linkedin.com/in/antonios-barotsis-5a26a0199/
     twitter: https://twitter.com/Tony_Barotsis
 
+- name: Paul Misterka
+  role: Tech & Partnerships Core
+  img: ./paul.jpg
+  descs:
+    - BSc Computer Science Student @ Delft University of Technology
+    - ex-SA Intern @ AWS
+    - PR Manager @ Makerspace Delft
+    - SWE, Cloud, Computer Vision, IoT & Search enthusiast
+  social:
+    github: https://github.com/paulmis
+    linkedin: https://www.linkedin.com/in/paulmis
+    instagram: https://www.instagram.com/glowpauul/
+    twitter: https://twitter.com/paulmis_
+
 - name: Andrew Mereuta
   role:  Tech Core
   img: ./AndrewM.jpg
